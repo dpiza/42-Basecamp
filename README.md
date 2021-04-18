@@ -23,10 +23,10 @@ The following table presents the Basecamp curriculum, ordered by my progress.
 | 04   | [Rush 00](https://github.com/dpiza/42-Basecamp/tree/main/Rush00/ex00) | C           | 2 days        | 150 XP     | 0% ❌   | -              |
 | 05   | [C 00](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC00) | C           | about 1 day   | 100 XP     | 85% ✔️  | level 2 - 22%  |
 | 06   | [C 01](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC01) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 3 - 04%  |
-| 07   | Exam 01                                                      | C           | about 4 hours | 225 XP     | ?% ✔️   | -              |
-| 08   | [Rush 01](https://github.com/dpiza/42-Basecamp/tree/main/Rush01/ex00) | C           | 2 days        | 150 XP     | 0% ❌   | -              |
-| 09   | [C 02](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC02) | C           | about 1 day   | 100 XP     | 65% ✔️  | level 3 - 43%  |
-| 10   | [C 03](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC03) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 4 - 03%  |
+| 07   | [C 02](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC02) | C           | about 1 day   | 100 XP     | 65% ✔️  | level 3 - 43%  |
+| 08   | [C 03](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC03) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 4 - 03%  |
+| 09   | Exam 01                                                      | C           | about 4 hours | 225 XP     | ?% ✔️   | -              |
+| 10   | [Rush 01](https://github.com/dpiza/42-Basecamp/tree/main/Rush01/ex00) | C           | 2 days        | 150 XP     | 0% ❌   | -              |
 | 11   | [C 04](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC04) | C           | about 1 day   | 100 XP     | 85% ✔️  | level 5 - 43%  |
 | 12   | [C 05](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC05) | C           | about 1 day   | 100 XP     | 80% ✔️  | level 6 - 25%  |
 | 13   | [C 06](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC06) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 5 - 90%  |

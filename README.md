@@ -25,7 +25,7 @@ The following table presents the Basecamp curriculum, ordered by my progress.
 | 06   | [C 01](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC01) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 3 - 04%  |
 | 07   | [C 02](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC02) | C           | about 1 day   | 100 XP     | 65% ✔️  | level 3 - 43%  |
 | 08   | [C 03](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC03) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 4 - 03%  |
-| 09   | Exam 01                                                      | C           | about 4 hours | 225 XP     | ?% ✔️   | -              |
+| 09   | Exam 01                                                      | C           | about 4 hours | 225 XP     | 36% ✔️   | level 7 - 22%  |
 | 10   | [Rush 01](https://github.com/dpiza/42-Basecamp/tree/main/Rush01/ex00) | C           | 2 days        | 150 XP     | 0% ❌   | -              |
 | 11   | [C 04](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC04) | C           | about 1 day   | 100 XP     | 85% ✔️  | level 5 - 43%  |
 | 12   | [C 05](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC05) | C           | about 1 day   | 100 XP     | 80% ✔️  | level 6 - 25%  |

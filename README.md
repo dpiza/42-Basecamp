@@ -32,7 +32,7 @@ The following table presents the Basecamp curriculum, ordered by my progress.
 | 13   | [C 06](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC06) | C           | about 1 day   | 100 XP     | 100% ✔️ | level 5 - 90%  |
 | 14   | [C 07](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC07) | C           | about 1 day   | 100 XP     | 60% ✔️  | Level 6 - 50%  |
 | 15   | [C 08](https://github.com/dpiza/42-Basecamp/tree/main/BasecampC08) | C           | about 1 day   | 100 XP     | 100% ✔️ | Level 6 - 91%  |
-| 16   | Final Exam                                                   | C           | about 8 hours | 375 XP     | ?% ✔️   | -              |
+| 16   | Final Exam                                                   | C           | about 8 hours | 375 XP     | 72% ✔️   | Level 8 - 18%  |
 
 ### License
 
